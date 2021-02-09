@@ -2,14 +2,33 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif Theme',
-    description: 'my theme'
+    title: 'Smooms Theme',
+    description: 'Theme for smooms.io'
   },
   plugins: [
     'gatsby-plugin-sass',
     'gatsby-transformer-json',
     'gatsby-transformer-remark',
     'gatsby-plugin-react-helmet',
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Syne`,
+            subsets: [`latin`],
+          },
+          {
+            family: `Poppins`,
+            variants: [`400`, `700`]
+          },
+          {
+            family: `Catamaran`,
+            subsets: [`latin`],
+          },
+        ],
+      },
+    }
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -39,14 +58,5 @@ module.exports = {
         head: false
       }
     },
-    {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [
-          'Playfair+Display:400,700'
-        ],
-        display: 'swap'
-      }
-    }
   ]
 };

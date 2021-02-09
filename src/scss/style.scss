@@ -1,6 +1,6 @@
 // Colors
-$primary: #8036ca;
-$secondary: #ffe55f;
+$primary: #494949;
+$secondary: #afafaf;
 $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #f6f7ff;
@@ -13,8 +13,9 @@ $link-hover-color: lighten($primary, 20%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: 'Playfair Display', serif, -apple-system;
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Syne&family=Catamaran:wght@300&family=Playfair+Display&display=swap');
+$font-family-base: Poppins, Catamaran, sans-serif;
+$font-family-heading: Syne, serif;
 
 // Footer
 $footer-background-color: $primary;

@@ -1,21 +1,21 @@
 ---
-title: "Accounting"
+title: "Pioneer Story-Based Selling"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Stories about your company helping real customers are the most potent sales ammunition in your stockpiles. Nothing communicates your products' value, reliability, and trustworthiness like a story of your company helping people. 
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Human Intelligence Layer](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives 
 
-Financial accounting and financial reporting are often used as synonyms.
+Sales and marketing teams know stories are the most effective messages to use when communicating with prospectors in any channel. Companies already have these stories stored away somewhere either in the CRM, LMS or sales automation SaaS providers.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+1. These systems are not purpose-built to streamline <i>access</i> to these messages
+2. Sales reps (especially outbound prospectors) lose precious time researching the most effective use case for their granular needs
+3. 
 
 ## Relevance
 
