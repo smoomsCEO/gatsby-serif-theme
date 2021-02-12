@@ -6,45 +6,31 @@ draft: false
 weight: 3
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Reps spend hours every month digging through CRMs and spreadsheets looking for useful intelligence. This information evolves over time, and needs a dedicated system engineered for speed and designed for ease of use.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+![Maze](/images/simplemaze.svg)
 
-## Geniti facinus praeruptam atris ab manus in
+## So. Many. Clicks.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+Here's the situation: you're a new sales rep and your manager has asked you to send 60 hypercustomized emails a day to generate more meetings. 
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+You're running through tasks, shooting emails to all kinds of prospects. You're based in New York and sell only to financials. 
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+The next guy on your email list was born and raised in Copenhagen: Aha! You fuzzily recall EMEA closing an awesome deal with a Danish wind power statup, but that's all you know.
 
-## Vidit si probetne vertitur
+Here are the options right now:
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+1. New tab, Google '(your company) Denmark'
+2. Go to the CRM, spreadsheet, or portal where use cases live and find that wind startup... or was it solar?
+3. Slack some smart people
+4. Pull a salesforce report of all Closed Won opportunities where billing address contained "Denmark NOT London" from the past year
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+Careful reps spend a lot of time gathering command over these use cases and stories, and inevitably spend a ton of time jumping through unnecessary hurdles memorizing this stuff. 
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+## Smooms changes the use case research game
+
+With smoomsDB, all you need is a single step:
+
+ - In your browser: smooms > emea * mid-market * energy
+
+It will instantly show a list of every message and use case that has those tags.

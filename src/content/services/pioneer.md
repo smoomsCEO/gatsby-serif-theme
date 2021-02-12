@@ -5,77 +5,37 @@ featured: true
 weight: 1
 ---
 
-Stories about your company helping real customers are the most potent sales ammunition in your stockpiles. Nothing communicates your products' value, reliability, and trustworthiness like a story of your company helping people. 
+Stories are the most potent form of human communication. Effective outbounding strategies tell them as often and effectively as possible.
 
+> <i>"It is true that storytelling reveals meaning without committing the error of defining it"</i>
+
+-Hannah Arendt
 ![Human Intelligence Layer](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
+# State of The World 
 
-Sales and marketing teams know stories are the most effective messages to use when communicating with prospectors in any channel. Companies already have these stories stored away somewhere either in the CRM, LMS or sales automation SaaS providers.
+Sales and marketing teams already know stories are the most effective messages to use with prospects. But their arsenals are diverse, because sometimes you need to pull out a raw product spec instead of a story, or vice versa.
 
-1. These systems are not purpose-built to streamline <i>access</i> to these messages
-2. Sales reps (especially outbound prospectors) lose precious time researching the most effective use case for their granular needs
-3. 
+As products, companies, and value-add landscapes become increasingly digitized and abstract, a significant dimension of sales enablement is continually educating reps on products, features, and recent customer win stories. 
 
-## Relevance
+Companies already have these stroies stored away somewhere either in the CRM, LMS or sales automation SaaS tools. These systems provide insufficient access to this intlelligence. 
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+## There is room for process improvement in corporate storytelling
+The best sales reps tell hard-hitting stories on the fly. Different stories work well for different targets, and companies with many customers or complex products need somewhere to store these stories where employees can learn them. 
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+CRMs, the enterprise embodiment of the 'jack of all trades, master of none' paradigm, are the natural first choice. Fully scalable and integratable, there is a mind-boggling variety of phenomenal CRM plugins that automate everything from sending emails to building marketing dashboards. 
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+The other choice... spreadsheets. Horrific.
 
-## Faithful Representation
+## We love automation, but it has never brought you closer to the finish line
+No system is currently designed for <i>delivering</i> this kind of information quickly and thoughtlessly. Making it actionable. Usable, and easy to search through. 
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Automatic sales services are **critical** for the modern outbounding strategy, but sales and marketing copywriting is focused on influencing people, not computers. For now. 
 
-## Enhancing Qualitative Characteristics
+## Inevitably, somewhere, human finesse and artistry are required to make an effective point
+Outbound sales, much like life in general, requires balancing speed and precision. The data age brings both, but we are still at the dawn of Industry 4.0. 
 
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+The technology powering CRMs and intelligence delivery systems are built for precision and integration, not speed and ease of human use. 
 
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+## Smooms sits on top of any intelligence foundation
+Smooms is designed to be the simplest app in any stack. An uncomfortable amount of modern knowledge work is managing information in enterprise systems, and we want to avoid all of that. This app is designed for humans. 

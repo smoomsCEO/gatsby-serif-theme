@@ -26,7 +26,7 @@ const Footer = props => {
         <div className="row">
           <div className="col-12">
             <div className="footer-inner">
-              <h3 className="footer-title">{data.site.siteMetadata.title}</h3>
+              <h1 className="footer-title">{data.site.siteMetadata.title}</h1>
               <ul>
                 {data.allFooterMenuJson.edges.map(({ node }) => (
                   <li key={node.name}>

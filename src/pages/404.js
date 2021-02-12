@@ -6,7 +6,7 @@ class NotFoundPage extends React.Component {
     return (
       <Layout>
         <h1>Not Found</h1>
-        <p>You just hit a page that doesn&#39;t exist...</p>
+        <p>You tried to access a page that doesn&#39;t exist...</p>
       </Layout>
     );
   }
